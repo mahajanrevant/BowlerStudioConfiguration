@@ -14,6 +14,10 @@
     "https://gist.github.com/0a0c97c855566f528799a49c4f9470c5.git:helloWorld.groovy": [
       "https://gist.github.com/0a0c97c855566f528799a49c4f9470c5.git",
       "helloWorld.groovy"
+    ],
+    "https://github.com/mahajanrevant/greycat.git:launch.groovy": [
+      "https://github.com/mahajanrevant/greycat.git",
+      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
