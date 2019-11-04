@@ -18,6 +18,10 @@
     "https://github.com/mahajanrevant/greycat.git:launch.groovy": [
       "https://github.com/mahajanrevant/greycat.git",
       "launch.groovy"
+    ],
+    "https://github.com/mahajanrevant/greycat.git:walking.groovy": [
+      "https://github.com/mahajanrevant/greycat.git",
+      "walking.groovy"
     ]
   },
   "BowlerStudioConfigs": {
