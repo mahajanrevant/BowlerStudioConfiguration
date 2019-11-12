@@ -23,6 +23,10 @@
       "https://github.com/mahajanrevant/FinalKat.git",
       "walkingTest.groovy"
     ],
+    "https://github.com/mahajanrevant/FinalKat.git:launch.groovy": [
+      "https://github.com/mahajanrevant/FinalKat.git",
+      "launch.groovy"
+    ],
     "https://github.com/mahajanrevant/FinalKat.git:walking.groovy": [
       "https://github.com/mahajanrevant/FinalKat.git",
       "walking.groovy"
