@@ -34,10 +34,6 @@
     "https://github.com/mahajanrevant/FinalKat.git:main.groovy": [
       "https://github.com/mahajanrevant/FinalKat.git",
       "main.groovy"
-    ],
-    "https://github.com/mahajanrevant/FinalKat.git:walking.groovy": [
-      "https://github.com/mahajanrevant/FinalKat.git",
-      "walking.groovy"
     ]
   },
   "BowlerStudioConfigs": {
