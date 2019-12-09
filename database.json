@@ -31,6 +31,10 @@
       "https://github.com/mahajanrevant/FinalKat.git",
       "main.groovy"
     ],
+    "https://github.com/mahajanrevant/FinalKat.git:DeviceManagerExample.groovy": [
+      "https://github.com/mahajanrevant/FinalKat.git",
+      "DeviceManagerExample.groovy"
+    ],
     "https://github.com/mahajanrevant/FinalKat.git:VirtualCat.groovy": [
       "https://github.com/mahajanrevant/FinalKat.git",
       "VirtualCat.groovy"
